@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <color name="background">#1A1A1A</color>
-    <color name="card">#2B2B2B</color>
-    <color name="highlight">#E4FF00</color>
-    <color name="white">#FFFFFF</color>
-    <color name="grey">#B0B0B0</color>
-    <color name="nav_item_color">#FF3D00</color>
-</resources>
