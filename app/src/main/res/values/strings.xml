@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Stock Price Tracker</string>
+    <string-array name="months">
+        <item>January</item>
+        <item>February</item>
+        <item>March</item>
+        <item>April</item>
+    </string-array>
+
+</resources>
